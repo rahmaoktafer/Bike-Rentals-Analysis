@@ -6,7 +6,7 @@ import matplotlib.dates as mdates
 from IPython.display import display
 
 # Load the dataset
-df = pd.read_csv('C:/Users/Lenovo/Documents/python/final_data.csv')
+df = pd.read_csv('dashboard/final_data.csv')
 #final_data.csv is the cleaned version of day.csv, generated after performing data cleaning
 
 # Ensure 'dteday' is in datetime format
