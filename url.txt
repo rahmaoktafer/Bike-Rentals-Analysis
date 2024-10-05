@@ -1,1 +1,1 @@
-http://10.43.121.123:8504
+https://bike-rentals-analysisgit.streamlit.app/
